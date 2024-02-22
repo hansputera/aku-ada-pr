@@ -1,11 +1,10 @@
-## NodeJS Project Template
-It's just simple nodejs project template for me :>
+## Aku Ada PR Software
 
-## devDeps
-1. ESLint
-2. Husky (hook)
-3. TypeScript + TSup (bundler)
-4. IsCI (detect env is ci or workspace), and isGitDirty (check the .git uncommited changes)
+Hi, lemme introduce my useless software to notice and saves my assignments deadline, built with BSON as file database, and Fastify
 
-## license
+## Todos
+- [ ] Implement message broker (I would like to use NSQ, or RabbitMQ) to notify the assignment deadline
+- [ ] Implement websocket also to notify the assignment deadline
+
+## License
 MIT
